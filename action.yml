@@ -1,4 +1,4 @@
-name: 'Hello World' # add tag
+name: 'Hello World' # add tag and push with tags
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
